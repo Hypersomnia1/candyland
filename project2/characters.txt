@@ -1,0 +1,4 @@
+JellyBean_Jane|100|50|Rainbow Ripple,Lucky Licorice,Fearsome Fudge,Bubblegum Blast
+Chocolate_Charlie|50|100|Rainbow Ripple,Lucky Licorice,Fearsome Fudge,Bubblegum Blast
+Toffee_Todd|75|20|Rainbow Ripple,Lucky Licorice,Fearsome Fudge,Bubblegum Blast
+Caramel_Carl|100|50|Rainbow Ripple,Lucky Licorice,Fearsome Fudge,Bubblegum Blast

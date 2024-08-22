@@ -1,0 +1,8 @@
+What gets wet while drying? (single word, lowercase)|towel  
+How many letters are in the alphabet? (integer)|11
+What are the next three letters in this sequence: OTTFFSS? (no spaces, uppercase)|ENT
+What can be cracked, made, told, and played? (single word, lowercase)|joke
+The more you take, the more you leave behind. What am I? (single word, lowercase)|footsteps
+What has keys but can't open locks? (single word, lowercase)|keyboard
+Remove one letter and I change from an even to an odd number. What number am I?(integer)|6
+I’m often running yet I have no legs. You need me but I don’t need you. What am I?(single word, lowercase)|water
