@@ -13,7 +13,7 @@
 <p>1. Extract Files</p>
 
 ```
-Download and extract project2.zip and open in VSCode
+Download and extract project2 and open in VSCode
 ```
 
 <p>2. Compile Project (Type the following lines into the command line)</p>
