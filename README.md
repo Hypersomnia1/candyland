@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/2k1hFGi.png" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://i.imgur.com/L0qPLqP.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://i.imgur.com/L0qPLqP.png" alt="project-screenshot" width="600" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
